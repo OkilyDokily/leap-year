@@ -4,10 +4,22 @@
 
 #### By _**Matthew**_
 
+
 ## Description
 
 _A page created by copying epicodus as per instructions_
 _Page determines if inputted value is a leap year_
+
+
+##Spec
+
+| Spec                                                                                         | Input | Output |
+|----------------------------------------------------------------------------------------------|-------|--------|
+| The program should return false when the year is not a leap year                             | 1993  | false  |
+| The program should return 'true' for years divisible by 4, since those are leap years        | 2004  | true   |
+| The program should return 'false' for years divisible by 100 since those are not leaps years | 1900  | false  |
+| The program should return 'true' for years divisible by 400 since those are leap years.      | 2000  | true   |
+
 
 ## Setup/Installation Requirements
 
